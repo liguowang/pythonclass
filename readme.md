@@ -1,2 +1,2 @@
 # Notebook for Python class
-Click [here](https://hub.gke.mybinder.org/user/liguowang-pythonclass-n17k2q5d/notebooks/07.22.2020.ipynb) to run the Jupyter Notebook file
+Click [here](https://mybinder.org/v2/gh/liguowang/pythonclass/94de53fff4c5d8c0b1fe8a424c5687751456ddc5) to run the Jupyter Notebook file
